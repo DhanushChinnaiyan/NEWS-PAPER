@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.A{
+    border: 2px solid black;
+    
+    
+}
+.B{
+    border-left: 1px solid black;
+}
+.C{
+    padding-top: 10px;
+}
+.D{
+    margin-top: 30px;
+   
+}
+.E{
+    padding: 10px;
+}
+H1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
